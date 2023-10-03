@@ -1,16 +1,15 @@
 {
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
   "name": "biblioteca",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "dev": "json-server --watch db.json"
+    "dev": "json-server --watch db.json --port 5010 --host 127.168.0.6"
   },
   "keywords": [],
-  "author": "company",
+  "author": "Santiago Marquez Bello",
   "license": "ISC",
-  "devDependencies": {
-    "json-server": "0.17.3"
-  }
+  "description": ""
 }

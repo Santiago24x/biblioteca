@@ -1,18 +1,10 @@
 {
-  "libros": [
-    {
-      "titulo": "como hacer marihuana con javascript",
-      "fecha": "2022-03-20",
-      "autor": "pirlo420",
-      "id": 1
-    },
-    {
-      "titulo": "como hacer marihuana con panela",
-      "fecha": "2022-03-20",
-      "autor": "pirlo420",
-      "id": 2
-    }
-  ],
-  "comments": [],
-  "profile": []
+  "categoria": [],
+  "editorial": [],
+  "estado-libro": [],
+  "libro": [],
+  "prestamo": [],
+  "reserva": [],
+  "autor": [],
+  "usuario": []
 }
